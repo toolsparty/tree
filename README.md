@@ -81,4 +81,4 @@
  - Category 6
  ```
  
- см. примеры <https://github.com/toolsparty/tree/example/>
+ см. примеры <https://github.com/toolsparty/tree/tree/master/example>
